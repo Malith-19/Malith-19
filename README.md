@@ -22,7 +22,4 @@
 </p>
 
 
-<p align="center">
-<a href="malito:malithdilshan91@gmail.com" ><img src="https://github.com/Malith-19/Malith-19/blob/main/gmail.png" alt="Gmail"/> </a>
- 
-</p>
+
