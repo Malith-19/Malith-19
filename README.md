@@ -19,4 +19,10 @@
  
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Malith-19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
- </p>
+</p>
+
+
+<p align="center">
+<a href="malito:malithdilshan91@gmail.com" ><img src="https://github.com/Malith-19/Malith-19/blob/main/gmail.png" alt="Gmail"/> </a>
+ 
+</p>
