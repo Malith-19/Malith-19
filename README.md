@@ -2,7 +2,7 @@
 <h2>Welcome to my profile.</>
 
 
-
+<p> <img src"https://github.com/Malith-19/Malith-19/blob/main/animation.gif"/> </>
 
 
  
