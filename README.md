@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/Intrest-Web%20Development,%20    IoT,%20    Automation-blue" />
+ <img src="https://img.shields.io/badge/Interest-Problem%20Solving,%20    Algorithms,%20    Automation-blue" />
  <img src="https://img.shields.io/badge/Lives-Kuliyapitiya,%20Sri%20Lanka-purple" />
  <img src="https://img.shields.io/badge/Languages-English%20Sinhala-blueviolet" />
 </p>
