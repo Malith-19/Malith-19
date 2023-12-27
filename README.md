@@ -27,3 +27,6 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malith-19&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malith-19" /></p>
+
+<h1>GitHub Tropies</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
