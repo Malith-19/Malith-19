@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
- Undergraduate | Self Learner | Creative | Motivated
+ Software Engineer at WSO2 | Self Learner | Passionate about automating
 </h3>
 
 [![](https://visitcount.itsvg.in/api?id=Malith-19&icon=8&color=6)](https://visitcount.itsvg.in)
