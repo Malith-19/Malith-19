@@ -2,7 +2,7 @@
  <h1 align="center">Hi there I'm Malith Dilshan<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 
-<p align="center"> <img src="https://github.com/Malith-19/Malith-19/blob/main/A%20Story%20of%20Hope.gif" height="300" /> </p>
+<p align="center"> <img src="https://github.com/Malith-19/Malith-19/blob/main/A%20Story%20of%20Hope.gif" height="200" /> </p>
 
 
 <p align="center">
