@@ -86,24 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malith-19&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malith-19&theme=github_dark" alt="Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malith-19&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Malith-19&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
