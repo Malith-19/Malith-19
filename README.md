@@ -13,12 +13,6 @@
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20Sinhala-blueviolet" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Malith-19&icon=8&color=6" />
-  </a>
-</p>
-
 ---
 
 ## About Me
